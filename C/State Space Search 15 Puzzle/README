@@ -1,4 +1,4 @@
-INSTRUDCTIONS:
+INSTRUCTIONS:
 
 Design and implement a C program for three search strategies: depth first, breadth first, and intelligent search. For intelligent search,
 use the heuristic function and values f,g,h, to be disucssed in class. Use the skeleton code. The program will use a doubly linked list. 
